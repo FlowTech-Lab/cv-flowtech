@@ -25,3 +25,12 @@ C’est ça qui dit à Vite :
 
 
 https://flowtech-lab.github.io/cv-flowtech/
+
+
+# Si ton projet est prêt
+git add .
+git commit -m "Version web prête"
+git push origin main
+
+# Déploiement :
+npm run deploy

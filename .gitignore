@@ -1,0 +1,22 @@
+# 📦 Node & Vite
+node_modules/
+dist/
+.vite/
+
+# 🔐 Environnement (au cas où un .env arrive un jour)
+.env
+
+# 🗑️ Trash et logs
+.DS_Store
+*.log
+npm-debug.log*
+
+# ⚙️ IDE (VS Code)
+.vscode/
+.idea/
+
+# 📄 Système
+Thumbs.db
+
+# 🔒 GitHub Pages build
+gh-pages/
